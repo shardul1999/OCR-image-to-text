@@ -1,2 +1,1 @@
-TEXT to SPEECH function can be added
-It can be made for multiple images( displaying and saveing the texts in multiple images in a single file )
+tried adding tts function using gtts python library but not working will update later.
